@@ -1,1 +1,2 @@
 print("func py")
+print("func2 pypy")
